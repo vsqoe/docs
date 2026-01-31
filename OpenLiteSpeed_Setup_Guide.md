@@ -1,4 +1,4 @@
-# OpenLiteSpeed-Setup
+# OpenLiteSpeed Setup Guide
 
 ## 1. Installation
 

@@ -1,6 +1,6 @@
-# Video-Streaming-Server
+# Video Streaming Server
 
-> _**NOTE**: If you are looking for the setup guide, please navigate to [OpenLiteSpeed-setup](/openlitespeed/)._
+> _**NOTE**: If you are looking for the setup guide, please navigate to [OpenLiteSpeed Setup Guide](/OpenLiteSpeed_Setup_Guide.md)._
 
 OpenLiteSpeed-web-server is being used as a video-streaming-server. It has support for `HTTP3/QUIC` out of the box. The server is hosted on Google Cloud Platform (GCP). 
 
